@@ -66,7 +66,7 @@
   <!-- Hero/Profile -->
   <section class="hero" style="background-color: rgb(247, 242, 168);">
     <div class="container">
-      <img src="https://media.licdn.com/dms/image/v2/D5603AQEQgxdmdzqedA/profile-displayphoto-shrink_400_400/B56ZdZTxrMGQAk-/0/1749550049805?e=1756339200&v=beta&t=nDXd2XR8iAn4JQp6gqMbh60wpHEiyfbP7Hf0HZGy55A"/>
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQEQgxdmdzqedA/profile-displayphoto-shrink_800_800/B56ZdZTxrMGQAg-/0/1749550050011?e=1756339200&v=beta&t=0sjO9Bqdt2jytM8przNI9rKBYa8N-xeY4dVb3jUkUro"/>
       <h1>Shaik Jaffar Alli</h1>
       <p class="lead">Full Stack Web Developer</p>
     </div>
