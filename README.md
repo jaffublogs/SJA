@@ -66,7 +66,7 @@
   <!-- Hero/Profile -->
   <section class="hero" style="background-color: rgb(247, 242, 168);">
     <div class="container">
-      <img src="c:\Users\HP\OneDrive\Pictures\profile\WhatsApp Image 2025-06-28 at 23.43.11_067b8164.jpg"/>
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQEQgxdmdzqedA/profile-displayphoto-shrink_400_400/B56ZdZTxrMGQAk-/0/1749550049805?e=1756339200&v=beta&t=nDXd2XR8iAn4JQp6gqMbh60wpHEiyfbP7Hf0HZGy55A"/>
       <h1>Shaik Jaffar Alli</h1>
       <p class="lead">Full Stack Web Developer</p>
     </div>
@@ -94,9 +94,6 @@ within a dynamic tech environment.</li>
 <P>I Completed Intermediate in [SDHR Junior College,Tirupati] at the percentage of 49%</P>
 <h4><li>SCHOOL [2019]</li></h4>
 <P>I Completed my SSC in[ AUDISHANKARA TECHNO SCHOOL, TIRUPATI] at the percentage of 9.2%</P>
-    </div>
-
-
   <!-- Projects Section -->
   <section class="section bg-light" id="projects" style="background-color: rgb(8, 161, 77);">
     <div class="container">
