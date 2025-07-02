@@ -148,7 +148,7 @@ within a dynamic tech environment.</li>
          <li>phone no:<a href="number"> 7661869592</a></li>
         <li>Email:<a href="https://mail.google.com/mail/u/0/#inbox">jaffarallis7661@gmail.com</a></li>
         <li>GitHub: <a href="https://github.com/jaffublogs">github.com/johndoe</a></li>
-        <li>linkedin <a href="https://www.linkedin.com/in/s-jaffar-alli-b6813624a/">https://www.linkedin.com/in/s-jaffar-alli-b6813624a/</a>
+        <li>linkedin: <a href="https://www.linkedin.com/in/s-jaffar-alli-b6813624a/">https://www.linkedin.com/in/s-jaffar-alli-b6813624a/</a>
         </li>
       </ul>
     </div>
